@@ -23,7 +23,7 @@
 This package implements a test for Dependency Confusion using pip.
 """
 
-__version__ = "0.0.2"
+__version__ = "666"
 __author__ = "Maurice Lambert"
 __author_email__ = "mauricelambert434@gmail.com"
 __maintainer__ = "Maurice Lambert"

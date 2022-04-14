@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: DependencyConfusion
-Version: 0.0.2
+Version: 666
 Summary: This package implements a test for Dependency Confusion using pip.
 Home-page: https://github.com/mauricelambert/DependencyConfusion
 Author: Maurice Lambert
