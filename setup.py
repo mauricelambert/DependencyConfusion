@@ -47,10 +47,10 @@ def print_all() -> None:
     )
     pip_print(
         "The dependency confusion attack is "
-        "successful if the installed version is 6.6.6."
+        "successful if the installed version is 666."
     )
     pip_print(
-        "Otherwise if the installed version " "is 0.0.1 the attack is missed."
+        "Otherwise if the installed version " "is 0.0.2 the attack is missed."
     )
     pip_print(
         "To exploit the dependency confusion attack "
@@ -133,7 +133,7 @@ else:
 setup(
     name=name,
     version=version,
-    modules=[name],
+    py_modules=[name],
     install_requires=[],
     author=package.__author__,
     author_email=package.__author_email__,

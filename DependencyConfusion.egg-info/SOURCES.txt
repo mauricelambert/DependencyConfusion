@@ -1,3 +1,4 @@
+DependencyConfusion.py
 README.md
 setup.py
 DependencyConfusion.egg-info/PKG-INFO

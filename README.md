@@ -4,10 +4,10 @@
 
 This package implements a test for Dependency Confusion using pip.
 
-1. The version `0.0.1` is available on *test.pypi.org*.
-2. The version `0.0.1` and `6.6.6` are available on *pypi.org*.
-3. In the scenario you want to install version `0.0.1` available on *test.pypi.org* and you use the **pip** `--extra-index-url` option to install it.
-4. During installation, a window will open to tell you which version is being installed... theoretically version `6.6.6` available on *pypi.org* will be installed if your pip version is vulnerable to dependency confusion.
+1. The version `0.0.2` is available on *test.pypi.org*.
+2. The version `0.0.2` and `666` are available on *pypi.org*.
+3. In the scenario you want to install version `0.0.2` available on *test.pypi.org* and you use the **pip** `--extra-index-url` option to install it.
+4. During installation, a window will open to tell you which version is being installed... theoretically version `666` available on *pypi.org* will be installed if your pip version is vulnerable to dependency confusion.
 
 ## Requirements
 
